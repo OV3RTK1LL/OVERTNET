@@ -3495,7 +3495,7 @@ else:
 		usage()
 		sys.exit()
 	else:
-		print "                       -->Starting The Overnet Attack<--"
+		print "                       -->Starting The Overtnet Attack<--"
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
 				set_safe()
