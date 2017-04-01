@@ -1,0 +1,8 @@
+########################################################
+#            Estes sites estão usando apache           #
+# -----------------------------------------------------#
+# DDoS irá cagar nesses servidores instantaneamente.   #
+# -----------------------------------------------------#
+# Servidores maiores e melhores levará tempo além como #
+# Várias pessoas atacando o site.                      #
+########################################################
