@@ -3496,9 +3496,6 @@ else:
 		sys.exit()
 	else:
 		print "                       -->Starting The Overnet Attack<--"
-	
-	
-		print "  "
 		if len(sys.argv)== 3:
 			if sys.argv[2]=="safe":
 				set_safe()
